@@ -39,7 +39,7 @@ Your answer: State values are data that is consistently changed or altered based
 
            // For example: When LEARN Cohort Alpha contributes in a check in or check out answering questions, we are not FULLY checked in or out if not all students and teachers contribute to the complex cause of a simple task.
 
-Researched answer:
+Researched answer: Prop and States are related.  They are both used to pass data between ReactJS. Props are located in components folders and is usually pulled to App.js and States would be the "parent" component branching out to the "child" folders for it to be invoked and used.
 
 5. What is the DOM?
 
